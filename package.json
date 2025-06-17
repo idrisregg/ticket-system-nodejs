@@ -1,0 +1,17 @@
+{
+  "name": "ticket-submitter",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "idrisregg",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0"
+  }
+}
