@@ -24,4 +24,4 @@ This application allows users to create, read, update, and delete support ticket
 
     REST API structure
 
-    Optional frontend (HTML/CSS/JS)
+    Vanilla frontend (HTML/CSS/JS)
