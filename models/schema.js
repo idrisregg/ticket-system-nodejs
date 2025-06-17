@@ -11,13 +11,13 @@ const ticketSchema = new mongoose.Schema({
     type: String,
     required: [true, 'You have to enter a client name'],
     trim: true,
-    maxLength: 20
+    maxLength: 100
   },
   ticketMessage: {
     type: String,
     required: [true, 'You have to enter message content'], 
     trim: true,
-    maxLength: 50
+    maxLength: 500
   }
 });
 
